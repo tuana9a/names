@@ -1,0 +1,5 @@
+name = "names"
+main = "src/index.ts"
+compatibility_date = "2023-03-11"
+account_id = "03593c4488aa12293b5f0a7e7be8d7c0"
+route = { pattern = "names.tuana9a.com", custom_domain = true }
